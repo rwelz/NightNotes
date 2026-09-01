@@ -64,9 +64,14 @@ Dieses Projekt enthält Inhalte aus einem kostenpflichtigen Kurs. Bitte verwende
 
 ### macOS
 <p align="center">
+  <a href="https://github.com/rwelz/NightNotes/blob/main/Screenshots/macOS/long%20note.jpeg">
   <img src="https://github.com/rwelz/NightNotes/blob/main/Screenshots/macOS/long%20note.jpeg?raw=true" width="300">
+  </a>
+  <a href="https://github.com/rwelz/NightNotes/blob/main/Screenshots/macOS/short%20note.jpeg">
   <img src="https://github.com/rwelz/NightNotes/blob/main/Screenshots/macOS/short%20note.jpeg?raw=true" width="300">
+  </a>
 </p>
+
 
 
 
