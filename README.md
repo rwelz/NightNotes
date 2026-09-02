@@ -40,8 +40,8 @@ Es handelt sich um ein umfangreiches SwiftUI-Tutorial, das moderne iOS-Techniken
 
 - SwiftUI Architektur und View-Komposition
 - Swift Data Integration
-- Speech Recording und CaptureSession in Text, Live Textausgabe während dem Recording
-- SystemLanguageModel und LanguageModelSession zum Generieren von Metadaten. Diese Metadaten bestehen aus einer Zusammenfassung der neu erstellten Notiz
+- Speech Recording und CaptureSession in Text, Live Textausgabe während dem Recording ein englisch. Mit ein paar Änderungen funktioniert das aber auch in deutsch - siehe Screenshot 3 und 4
+- SystemLanguageModel und LanguageModelSession zum Generieren von Metadaten. Diese Metadaten bestehen aus einer Zusammenfassung der neu erstellten Notiz ein englisch - mit ein paar Änderungen im Code auch in deutsch - siehe Screenshot 3 und 4. Der Code für das deutsche Transkribieren und Zusammenfassen  ist in diesem Projekt aber nicht enthalten.
 
 ---
 
@@ -70,7 +70,15 @@ Dieses Projekt enthält Inhalte aus einem kostenpflichtigen Kurs. Bitte verwende
   <a href="https://github.com/rwelz/NightNotes/blob/main/Screenshots/macOS/short%20note.jpeg">
   <img src="https://github.com/rwelz/NightNotes/blob/main/Screenshots/macOS/short%20note.jpeg?raw=true" width="300">
   </a>
+  <a href="https://github.com/rwelz/NightNotes/blob/main/Screenshots/macOS/deutsch%20kurze%20Notiz.jpeg">
+  <img src="https://github.com/rwelz/NightNotes/blob/main/Screenshots/macOS/deutsch%20kurze%20Notiz.jpeg?raw=true" width="300">
+  </a>
+  </a>
+  <a href="https://github.com/rwelz/NightNotes/blob/main/Screenshots/macOS/deutsch%20lange%20Notiz.jpeg">
+  <img src="https://github.com/rwelz/NightNotes/blob/main/Screenshots/macOS/deutsch%20lange%20Notiz.jpeg?raw=true" width="300">
+  </a>
 </p>
+
 
 
 
